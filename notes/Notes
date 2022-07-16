@@ -1,0 +1,47 @@
+sudo apt autoclean && sudo apt autoremovef
+neofetch
+rofi-theme-selector
+polybar
+polybar example
+fc-list fc-cache
+
+
+One screen(forward | back)
+ctrl+f | b - pg updown
+
+$ | 0 - start end line
+
+edit
+shit i | a - ins/apnd start/end linepo
+
+v - visual w word x delete
+
+:hi normal guibg=000000
+
+
+Press Ctrl + v to enter into visual block mode.
+
+Use ↑ / ↓ / j / k to select multiple lines.
+Press Shift + i and start typing what you want.
+After you press Esc, the text will be inserted into all the lines you selected.
+
+30i - <ESC> repetirh
+
+set relativenumber
+set nonumber
+
+set guicursor=a:ver100
+
+:Packer
+
+:set termguicolors jj
+:hi Cursor guifg=cornflowerblue guibg=cornflowerblue
+:hi Cursor2 guifg=cornflowGerblue guibg=cornflowerblue
+:set guicursor=n-v-c:block-Cursor/lCursor,i-ci-ve:ver25-Cursor2/lCursor2,r-cr:hor20,o:hor50
+
+c | cw - change
+. repeate last acttion
+
+1Q	
+
+setxkbmap br 
