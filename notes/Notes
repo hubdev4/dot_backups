@@ -45,3 +45,6 @@ c | cw - change
 1Q	
 
 setxkbmap br 
+
+# selecionar thema i3
+sudo apt-get -y install lxappearance
